@@ -1,5 +1,4 @@
 Pokémon API avec Flask et Streamlit
-Description
 Ce projet crée une API REST en Flask qui se connecte à la PokeAPI pour récupérer des informations détaillées sur les Pokémon. Ensuite, une interface graphique Streamlit permet aux utilisateurs de naviguer facilement entre les Pokémon, de les sélectionner et d'afficher leurs informations.
 
 Fonctionnalités
